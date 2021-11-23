@@ -1,0 +1,47 @@
+{
+    "productData" : [
+        {
+            "id" : 234,
+            "title" : "Lenovo G780 Smartphone",
+            "price" : "350.96",
+            "rating" : 5,
+            "image" : "process.env.PUBLIC_URL + '/Imgs/Snapdragon.jpg'"
+        },
+        {
+            "id" : 345,
+            "title" : "LG G7 Smartphone",
+            "price" : "239.0",
+            "rating" : 4,
+            "image" : "https://cdn.dxomark.com/wp-content/uploads/2018/10/lgg7thinq-front-back-1024x768.jpg"
+        },
+        {
+            "id" : 575,
+            "title" : "Amazon e-pod",
+            "price" : "199.99",
+            "rating" : 3,
+            "image" : "https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg"
+        },
+        {
+            "id" : 372,
+            "title" : "Lenovo Headphone",
+            "price" : "98.99",
+            "rating" : 2,
+            "image" : "https://media.very.co.uk/i/very/P6LTG_SQ1_0000000071_CHARCOAL_SLf?$300x400_retinamobilex2$"
+        },
+        {
+            "id" : 471,
+            "title" : "Phelix Smartwatch",
+            "price" : "580.99",
+            "rating" : 4,
+            "image" : "process.env.PUBLIC_URL + '/Imgs/Phelix Smartwatch.png'"
+        },
+        {
+            "id" : 247,
+            "title" : "Razor Cortex Gaming laptop",
+            "price" : "1094.98",
+            "rating" : 4,
+            "image" : "process.env.PUBLIC_URL + '/Imgs/Icompaq.jpg'"
+
+        }
+    ]
+}
